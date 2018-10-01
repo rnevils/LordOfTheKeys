@@ -1,0 +1,7 @@
+Funtional Requirements
+
+The system shall provide an option to mute all sounds.
+
+The system shall provide 3 levels of difficulty.
+
+The system shall provide a page of the top 5 high scores per difficulty.

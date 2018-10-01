@@ -1,0 +1,7 @@
+User Stories
+
+As an average typist, I want to have rounds of increasing speed, so that I can be challenged and improve my typing abilities.
+
+As a player, I want to have a visual change when I type a letter, so that I can track where in the sentence I'm at.
+
+As an advanced user, I want 3 different levels of difficulty, so that I don't get bored with the easier levels.
