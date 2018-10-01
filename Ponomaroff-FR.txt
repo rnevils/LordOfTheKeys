@@ -1,0 +1,3 @@
+The system shall add the user’s score to the high score page when they break a record.
+ The system shall provide a home page with settings and difficulty options.
+ The system shall use direct quotes from The Lord of the Rings books. 

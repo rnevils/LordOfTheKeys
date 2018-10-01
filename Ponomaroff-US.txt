@@ -1,0 +1,4 @@
+As a Lord of the Rings fan, I want music from the movies, so that I can get the whole lord of the rings experience. 
+As a user, I want a visual representation of time remaining, so that I know how quickly I need to type. 
+As a busy user, I want a quit option, so that I can end the game in the middle of a round.
+
