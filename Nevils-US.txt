@@ -1,0 +1,3 @@
+As a user, I want to be able to mute the soundtrack, so that I can listen to my own music and play. 
+As a beginning player, I want an intro level, so that I can gain an understanding of the controls and gameplay of the game. 
+As an avid gamer, I want an unending game mode, so that I can keep replaying the game. 

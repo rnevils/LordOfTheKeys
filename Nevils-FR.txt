@@ -1,0 +1,3 @@
+The system shall decrease the time given per progressing rounds. 
+The system shall change the color of the characters that have been typed. 
+The system shall prevent the user from progressing until the correct characters have been typed. 
