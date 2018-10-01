@@ -1,0 +1,4 @@
+1. As a user, I want to be able to use my mouse and keyboard as inputs, so that I can play the game.
+2. As a colorblind individual, I want an error tone when I type something wrong, so I know when I have missed a character. 
+3. As a busy user, I want to pause the game, so that I can take a break and pick it back up at another time.
+

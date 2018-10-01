@@ -1,0 +1,4 @@
+1. The system shall have a visual marker of time remaining.
+2. The system shall provide a pause option.
+3. The system shall provide a quit option. 
+
