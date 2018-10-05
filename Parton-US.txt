@@ -1,0 +1,5 @@
+1. As a user, I want my score displayed at game over, so that I know how well I did.
+2. As a user, I want to progress through the level only when the correct characters have been typed,
+so that I know I’m practicing good typing skills.
+3. As a computer science student, I want an error message if the game crashes, so that I know that
+the developers have handled exceptions well.
